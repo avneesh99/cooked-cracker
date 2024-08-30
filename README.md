@@ -29,7 +29,7 @@ These features make Cooked-Cracker an invaluable tool for network administrators
 ## Installation
 ### Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/avneesh99/cooked-cracker
 cd cooked-cracker
 ```
 
