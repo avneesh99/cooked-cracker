@@ -57,7 +57,7 @@ go build
 
 ## Requirements
 
-- Go 1.18 (where x is the version used in your project)
+- Go 1.18
 - github.com/google/gopacket library
 
 
